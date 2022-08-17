@@ -2,7 +2,9 @@
 
 
 IoTAPI is a simple API allowing developers to check `the status of our IoT devices` and use the data in real-time.
-[Documentation Link] https://iotfirebase.docs.apiary.io/
+
+## Documentation Link 
+https://iotfirebase.docs.apiary.io/
 
 
 ## Devices Collection [/questions]
